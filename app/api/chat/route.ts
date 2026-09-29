@@ -122,7 +122,7 @@ For educational questions, structure the answer clearly when useful.`,
           ],
 
           temperature: 0.7,
-          max_completion_tokens: 1024,
+          max_completion_tokens: 800,
         }),
       }
     );
